@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Moon+Dance&display=swap');
+@import "tailwindcss";
+
+.dark {
+    background-color: black;
+    color: white;
+  }
+  .light {
+    background-color: white;
+    color: black;
+  }
+  html {
+    transition: background-color 1.5s ease, color 1.5s ease;
+  }
+ @theme {
+    --font-moonDance: "Moon Dance", cursive;
+ }
+
+
