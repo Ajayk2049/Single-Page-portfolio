@@ -27,6 +27,9 @@ I use cutting-edge tools to build seamless web experiences:
     🔗 Lucide React – Clean, modern icons
     🌙 Tailwind Theming – Light & Dark mode support
 
+# ScreenShots
+![homepage-dark](https://github.com/Ajayk2049/Single-Page-portfolio/blob/main/Screenshots/Screenshot1.png?raw=true)
+![homepage-white](https://github.com/Ajayk2049/Single-Page-portfolio/blob/main/Screenshots/Screenshot2.png?raw=true)
 
 ## **🚀 Installation & Setup**  
 
